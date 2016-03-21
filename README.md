@@ -1,5 +1,5 @@
 # Magento2 Resources
-A list of valuable magento2 resources.
+A list of valuable magento2 resources: tutorials, articles, books and tools.
 
 ## Magento2 Tools
 [https://hub.docker.com/r/alankent/gsd/](https://hub.docker.com/r/alankent/gsd/) - Alan Kent's "Getting Stuff Done with Magento 2" Docker image
